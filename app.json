@@ -17,8 +17,8 @@
     "gindex",
     "libdrive"
   ],
-  "website": "https://github.com/Mirror1010/heroku",
-  "repository": "https://github.com/Mirror1010/heroku",
+  "website": "https://github.com/Mirror1010/Heroku-libdrive",
+  "repository": "https://github.com/Mirror1010/Heroku-libdrive",
   "logo": "https://avatars2.githubusercontent.com/u/75073550?v=4",
   "success_url": "/",
   "env": {
